@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+
+<properties>
+	<comment>세션변수 목록; 키는 세션변수, 값은 db alias. toss.LoginService에서 이용</comment>
+	
+	<entry key="userId">useriaasdadd</entry><!-- 사용자 아이디 -->
+	
+</properties>
